@@ -1,24 +1,19 @@
 # Villapando Rivera Ismael
 
-👨‍💻 Computer Science Engineer | 🚀 Tech Enthusiast
-
-## 📌 About Me
-
-Hello there! I am a passionate computer science engineer with a keen interest in software development, algorithms, and problem-solving. I love to explore new technologies and contribute to open-source projects.
+👨‍💻 Computer Science Engineer 
 
 ## 🚀 Skills
 
 - **Programming Languages:** Java, Python, C++, C#
-- **Web Technologies:** HTML, CSS, JavaScript
+- **Web Technologies:** HTML, CSS, JavaScript, Node js, React
 - **Database:** MySQL
-- **Tools:** Git, VS Code
+- **Tools:** Git
 
 ## 🌱 Currently Learning
 
 - Deep Learning
 - Machine Learning
 - Backend
-- Cryptographic
 
 ## 📫 Contact Me
 
